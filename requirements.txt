@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+matplotlib
+torch
+torchvision
+pytube
+ultralytics
+scikit-learn
+tqdm
+python-dotenv
